@@ -27,10 +27,10 @@ lifecycle_support:
   version: 2.+
   repository_root: "{default.repository.root}/tomcat-lifecycle-support"
 logging_support:
-  version: 2.+
+  version: 3.+
   repository_root: "{default.repository.root}/tomcat-logging-support"
 access_logging_support:
-  version: 2.+
+  version: 3.+
   repository_root: "{default.repository.root}/tomcat-access-logging-support"
 resource_configuration:
   version: 1.+
